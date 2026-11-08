@@ -1,0 +1,6 @@
+mne
+scipy
+numpy
+matplotlib
+scikit-learn
+requests
